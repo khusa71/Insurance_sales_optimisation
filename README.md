@@ -43,5 +43,3 @@ The code is organized into sections corresponding to each analysis question. Eac
 - seaborn
 - scikit-learn
 - tabulate
-
-To install these dependencies, run:
